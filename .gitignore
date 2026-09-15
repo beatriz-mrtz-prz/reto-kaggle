@@ -1,0 +1,19 @@
+# Datos: NUNCA se suben al repositorio
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Sistema
+.DS_Store
